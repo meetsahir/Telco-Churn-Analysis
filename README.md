@@ -65,3 +65,62 @@ are not senior citizens. We see that 23.6% of the customers have churned out who
 the churn% goes up to 41.7% when we consider the senior citizens 
 
 ![Image](https://github.com/user-attachments/assets/a1f7dc76-1143-4405-816f-386a96435dd4)
+
+Coming to the churn% based on the monthly charges paid the customer, we are again unable to find any corelation, we find the similar percent have churned irrespective of the monthly charges, so this does not seem to be a deciding factor
+
+![Image](https://github.com/user-attachments/assets/ebba4eb5-39d5-456b-aa45-a251737c9a21)
+
+Another important finding is the churn% based on the contract type, here we are able to find that we have 
+maximum number of customers having monthly contract, followed by two-year and one year contract has the least 
+customers. Out of this, the churn% of the monthly contract customers are alarmingly higher and those of the other 
+two types are more than acceptable. So, Telco really need to focus on this area
+
+![Image](https://github.com/user-attachments/assets/66173ce4-d450-4875-88c9-cab1126551d3)
+
+When we check the customer churn by Payment Method, we see that we have an equal share for all the payment 
+method, however, the churned customers mainly belong to the Electronic check category. It is not easy to predict 
+whether a co-relation exists between this, but this is something that can certainly be worth checking
+
+![Image](https://github.com/user-attachments/assets/b8029a60-b004-481f-9813-9b8e38d23f78)
+
+Next, when we investigate the customer churn based on the tenure, we see a clear trend where the customer 
+churn decreases as the tenure increases and vice versa. The normal distribution curve of the histogram confirms 
+the same
+
+![Image](https://github.com/user-attachments/assets/8bf665a8-ab31-4509-ba00-1241b0ea7938)
+
+Finally, we take a look at the customer churn rate based on the services that we are oƯering. The conclusion here is 
+that most of our customers are not using the services that we oƯer. On that, the customer not using tech support, 
+online backup, online security have a high churn rate. The contrary would be the internet service, where there is a 
+higher churn rate for customers using fiber optic
+
+
+![Image](https://github.com/user-attachments/assets/5e31dacc-1fae-49b3-8eed-adf9e25f5ae3)
+
+### Findings and suggestions 
+
+1. The data suggests that Telco has very less senior citizen customers and those that are there also have a high 
+churn rate, so the company needs to check the reasons for that. They need to promote more towards the senior 
+citizen customers and maybe bring better oƯers for them, so that they have more senior citizens joining and staying 
+with them 
+2. As per the data, customers who are choosing monthly contracts are having a very high rate of churn. So, the 
+company needs to come up with strategies to convert the monthly contracts into yearly contracts or two-year 
+contracts where the churn rate decreases rapidly 
+3. Continuing with the above point, we also see that the customers with less tenure with Telco has a high rate of 
+churn, so the company needs to focus on making the yearly, two-yearly contracts more lucrative and attractive 
+which will eventually help them in retaining their customers 
+4. Another interesting fact is that the customers with electronic check payment method have high churn rate. 
+Though this does not directly indicate anything, but the company can talk to their customers to understand if there 
+are any challenges with this payment method as the customers using other payment methods have a significantly 
+lower churn rate 
+5. It is also observed that most of the Telco customers are not using the services oƯered by the company and churn 
+ratio among those customers are also on the higher side. The company should take up initiatives to educate 
+customers more about their services, so the customer can start using their preferred services which has a high 
+chance of reducing the customer churn 
+
+### CONCLUSION 
+
+ased on the Telco Churn Analysis, we find that the company is experiencing a higher churn rate than expected. 
+We did analyze the factors that might be causing the customer churn rate to go higher and suggested the steps that 
+the company should implement. We expect the customer churn rate of the company to reduce once they start 
+implementing the steps 
