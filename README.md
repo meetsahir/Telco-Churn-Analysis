@@ -120,7 +120,7 @@ chance of reducing the customer churn
 
 ### CONCLUSION 
 
-ased on the Telco Churn Analysis, we find that the company is experiencing a higher churn rate than expected. 
+Based on the Telco Churn Analysis, we find that the company is experiencing a higher churn rate than expected. 
 We did analyze the factors that might be causing the customer churn rate to go higher and suggested the steps that 
 the company should implement. We expect the customer churn rate of the company to reduce once they start 
 implementing the steps 
